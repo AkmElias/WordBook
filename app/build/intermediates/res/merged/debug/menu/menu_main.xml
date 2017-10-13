@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.elias.wordbook.MainActivity">
+    <item
+        android:id="@+id/bkmark"
+        android:icon="@drawable/ic_bookmarked"
+        android:orderInCategory="99"
+        android:title="Bookmarked"
+        app:showAsAction="ifRoom|withText" />
+    <item
+        android:id="@+id/addd"
+        android:icon="@drawable/ic_add"
+        android:orderInCategory="100"
+        android:title="Add"
+        app:showAsAction="ifRoom|withText" />
+</menu>

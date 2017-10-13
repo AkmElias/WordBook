@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_volume.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_volume.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_volume_white.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_volume_white.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_bookmarked.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_bookmarked.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_non_bookmarked.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_non_bookmarked.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_search.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_add.xml",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_add.xml"
+    }
+]

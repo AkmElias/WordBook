@@ -1,0 +1,43 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.elias.wordbook.fragments.Dictonary">
+
+    <LinearLayout
+        android:id="@+id/first"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/search_background"
+        android:padding="5dp">
+
+        <EditText
+            android:id="@+id/search"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight=".85"
+            android:background="#FFF"
+            android:drawableLeft="@drawable/ic_search"
+            android:drawablePadding="5dp"
+            android:hint="Search or Type to Listen"
+            android:padding="2dp" />
+
+        <ImageView
+            android:id="@+id/pronunciation"
+            android:layout_width="0dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="0dp"
+            android:layout_weight=".15"
+            android:foreground="?attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_volume" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/words"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_below="@id/first" />
+
+</RelativeLayout>

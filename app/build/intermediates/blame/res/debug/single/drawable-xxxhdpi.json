@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_volume_white.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_volume_white.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_non_bookmarked.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_non_bookmarked.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_volume.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_volume.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_add.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_bookmarked.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_bookmarked.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\ic_search.png",
+        "source": "D:\\WordBook\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    }
+]

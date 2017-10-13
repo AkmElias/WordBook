@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transbk.gif",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\transbk.gif"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rpr.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\rpr.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pr.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\pr.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\search.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plains5.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\plains5.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plainpr.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\plainpr.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transpr2.gif",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\transpr2.gif"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lastresize.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\lastresize.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pronounciation.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\pronounciation.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ad.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\ad.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plainsbokmark.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\plainsbokmark.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plainadd.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\plainadd.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prnoun.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\prnoun.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\45293cf1b3a16f0ff31117a6d1bb6fec1576bd59\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transadd.gif",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\transadd.gif"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\prnc.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\prnc.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\45293cf1b3a16f0ff31117a6d1bb6fec1576bd59\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\transpr.gif",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\transpr.gif"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\last2.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\last2.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rradd.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\rradd.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plainsadd.jpg",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\plainsadd.jpg"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_background.xml",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\search_background.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notbkmark.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\notbkmark.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bkmark.png",
+        "source": "D:\\WordBook\\app\\src\\main\\res\\drawable\\bkmark.png"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\WordBook\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Elias\\.android\\build-cache\\eec52ba119068048faa4a713d1a3e7ae5b6368db\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    }
+]

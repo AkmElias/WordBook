@@ -1,0 +1,142 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:2:1-60:12
+	package
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:7:5-58:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Elias\.android\build-cache\45293cf1b3a16f0ff31117a6d1bb6fec1576bd59\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Elias\.android\build-cache\eec52ba119068048faa4a713d1a3e7ae5b6368db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Elias\.android\build-cache\d0add527ab0ce04d4ab2752702ced1ff3a08f142\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Elias\.android\build-cache\935679382bd6f1454d2fafa4d8e1ba604a79ccf6\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Elias\.android\build-cache\0893bf34d222ec62384298aa915ff470fbcda57d\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Elias\.android\build-cache\a2b28fc28e9ba27bf6741765a163f4063e1475f9\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.elias.wordbook.MainActivity
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:13:9-22:20
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:15:13-45
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:16:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:14:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.elias.wordbook.ItemShow
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:23:9-26:50
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:25:13-61
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:24:13-37
+activity#com.elias.wordbook.BookmarkWords
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:27:9-31:59
+	android:screenOrientation
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:30:13-49
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:29:13-66
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:31:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:28:13-42
+activity#com.elias.wordbook.weekStat
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:32:9-36:59
+	android:screenOrientation
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:34:13-61
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:33:13-37
+activity#com.elias.wordbook.MonthlyStat
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:37:9-41:59
+	android:screenOrientation
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:39:13-64
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:41:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:38:13-40
+activity#com.elias.wordbook.LearnedWords
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:42:9-45:59
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:44:13-65
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:43:13-41
+activity#com.elias.wordbook.SplashActivity
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:46:9-49:59
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:48:13-58
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:49:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:47:13-43
+activity#com.elias.wordbook.ResultStatActivity
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:50:9-53:59
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:52:13-63
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:51:13-47
+activity#com.elias.wordbook.Abc
+ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:56:13-55
+	android:theme
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:57:13-47
+	android:name
+		ADDED from D:\WordBook\app\src\main\AndroidManifest.xml:55:13-32
+uses-sdk
+INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:23.4.0] C:\Users\Elias\.android\build-cache\45293cf1b3a16f0ff31117a6d1bb6fec1576bd59\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Elias\.android\build-cache\1c418d3b19e1d1fdfb800307fcb7e75e3ed03802\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Elias\.android\build-cache\eec52ba119068048faa4a713d1a3e7ae5b6368db\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Elias\.android\build-cache\d0add527ab0ce04d4ab2752702ced1ff3a08f142\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Elias\.android\build-cache\935679382bd6f1454d2fafa4d8e1ba604a79ccf6\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Elias\.android\build-cache\0893bf34d222ec62384298aa915ff470fbcda57d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Elias\.android\build-cache\a2b28fc28e9ba27bf6741765a163f4063e1475f9\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Elias\.android\build-cache\eec52ba119068048faa4a713d1a3e7ae5b6368db\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
+		INJECTED from D:\WordBook\app\src\main\AndroidManifest.xml
